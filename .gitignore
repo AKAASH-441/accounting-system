@@ -2,3 +2,6 @@ out/
 db/demo.db
 *.class
 ledger-anchor*.txt
+accounting.jar
+release/
+AccountingSystem.zip
